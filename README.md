@@ -30,7 +30,7 @@ Single-image-to-3D generative models can now produce high-quality geometry, yet 
 - [ ] Release inference code & pretrained weights
 - [ ] Release training code
 
-## Citation
+<!-- ## Citation
 
 If you find this work useful, please consider citing:
 
@@ -44,4 +44,4 @@ If you find this work useful, please consider citing:
 
 ## Acknowledgements
 
-Our project page is built upon [Nerfies](https://nerfies.github.io/) and [FlexiTex](https://github.com/PatrickDDj/FlexiTex).
+Our project page is built upon [Nerfies](https://nerfies.github.io/) and [FlexiTex](https://github.com/PatrickDDj/FlexiTex). -->
